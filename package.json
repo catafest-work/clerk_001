@@ -1,0 +1,32 @@
+{
+  "name": "clerk_001",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev-time-linux": "cross-env NEXT_LOGGER_TIMESTAMP=1 next dev | while read line; do echo \"[$(date '+%Y-%m-%d %H:%M:%S')] $line\"; done",
+    "dev-time-win-cmd": "node -e \"require('child_process').spawn('node', ['./node_modules/next/dist/bin/next', 'dev'], {stdio: 'pipe'}).stdout.on('data', data => console.log(`[${new Date().toISOString()}] ${data.toString().trim()}`))\"",
+    "dev-time-logs-win-cmd": "node -e \"require('child_process').spawn('node', ['./node_modules/next/dist/bin/next', 'dev'], {stdio: 'pipe'}).stdout.on('data', data => {console.log(`[${new Date().toISOString()}] ${data.toString().trim()}`); require('fs').appendFileSync('dev-time.log', `[${new Date().toISOString()}] ${data.toString().trim()}\\n`, {encoding: 'utf8'})});\"",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.9.3",
+    "chart.js": "^4.4.7",
+    "next": "15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.0.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "cross-env": "^7.0.3",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0",
+    "typescript": "^5"
+  }
+}

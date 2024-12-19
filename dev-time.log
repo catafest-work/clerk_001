@@ -1,0 +1,596 @@
+[2024-12-19T10:58:44.366Z] GET / 500 in 328ms
+[2024-12-19T10:58:44.922Z] GET /favicon.ico 200 in 19ms
+[2024-12-19T10:58:44.928Z] GET /api/logs/ 200 in 22ms
+[2024-12-19T10:58:45.225Z] GET / 200 in 16ms
+[2024-12-19T10:58:47.976Z] GET / 500 in 46ms
+[2024-12-19T10:58:48.401Z] GET /favicon.ico 200 in 11ms
+[2024-12-19T10:58:48.409Z] GET /api/logs/ 200 in 19ms
+[2024-12-19T10:58:48.729Z] GET / 200 in 24ms
+[2024-12-19T10:59:09.574Z] GET / 500 in 58ms
+[2024-12-19T10:59:10.104Z] GET /favicon.ico 200 in 18ms
+[2024-12-19T10:59:10.114Z] GET /api/logs/ 200 in 18ms
+[2024-12-19T10:59:10.497Z] GET / 200 in 18ms
+[2024-12-19T10:59:12.069Z] GET / 500 in 51ms
+[2024-12-19T10:59:12.532Z] GET /favicon.ico 200 in 21ms
+[2024-12-19T10:59:12.541Z] GET /api/logs/ 200 in 14ms
+[2024-12-19T10:59:12.913Z] GET / 200 in 17ms
+[2024-12-19T10:59:25.898Z] ✓ Compiled in 396ms (641 modules)
+[2024-12-19T10:59:34.661Z] ▲ Next.js 15.1.0
+[2024-12-19T10:59:34.663Z] - Local:        http://localhost:3000
+   - Network:      http://10.13.13.2:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+[2024-12-19T10:59:36.608Z] ✓ Ready in 2.2s
+[2024-12-19T10:59:42.809Z] ✓ Compiled /middleware in 421ms (215 modules)
+[2024-12-19T10:59:43.816Z] ○ Compiling / ...
+[2024-12-19T10:59:45.586Z] ✓ Compiled / in 2.3s (1070 modules)
+[2024-12-19T10:59:46.547Z] GET / 500 in 3242ms
+[2024-12-19T10:59:47.897Z] ○ Compiling /favicon.ico ...
+[2024-12-19T10:59:48.207Z] ✓ Compiled /favicon.ico in 826ms (1090 modules)
+[2024-12-19T10:59:48.383Z] GET /favicon.ico 200 in 954ms
+[2024-12-19T10:59:48.470Z] GET /api/logs/ 200 in 1092ms
+[2024-12-19T10:59:48.483Z] GET / 200 in 699ms
+[2024-12-19T13:03:14.897Z] ✓ Compiled in 2.3s (1071 modules)
+[2024-12-19T13:03:14.907Z] ✓ Compiled in 545ms (1071 modules)
+ ✓ Compiled in 756ms (1071 modules)
+ ✓ Compiled in 827ms (1071 modules)
+ GET / 500 in 489ms
+ ✓ Compiled /favicon.ico in 277ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 438ms
+ GET /api/logs/ 200 in 576ms
+ GET / 200 in 111ms
+ ✓ Compiled in 845ms (1071 modules)
+ ✓ Compiled in 342ms (1071 modules)
+ ✓ Compiled in 462ms (1071 modules)
+ ✓ Compiled in 637ms (1071 modules)
+ ✓ Compiled in 255ms (1071 modules)
+ GET / 500 in 419ms
+ ✓ Compiled /favicon.ico in 207ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 420ms
+ GET /api/logs/ 200 in 425ms
+ GET / 200 in 65ms
+ ✓ Compiled in 390ms (1090 modules)
+ ✓ Compiled in 1552ms (1071 modules)
+ ✓ Compiled in 662ms (1071 modules)
+ GET / 500 in 361ms
+ ✓ Compiled /api/logs in 218ms (637 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 452ms
+ GET /api/logs/ 200 in 456ms
+ GET / 200 in 63ms
+ ✓ Compiled in 633ms (1071 modules)
+ ✓ Compiled /api/logs in 356ms (639 modules)
+ GET /api/logs/ 200 in 595ms
+ ✓ Compiled in 670ms (1071 modules)
+ ✓ Compiled in 418ms (1071 modules)
+ GET / 500 in 734ms
+ ✓ Compiled /api/logs in 364ms (637 modules)
+ ✓ Compiled in 0ms (641 modules)
+ ✓ Compiled in 1ms (641 modules)
+ ✓ Compiled in 0ms (641 modules)
+ GET /favicon.ico 200 in 1031ms
+ GET /api/logs/ 200 in 1260ms
+ GET / 200 in 840ms
+ ✓ Compiled in 551ms (1090 modules)
+ GET / 500 in 284ms
+ GET /favicon.ico 200 in 48ms
+ GET /api/logs/ 200 in 59ms
+ GET / 200 in 24ms
+ ✓ Compiled in 1384ms (1071 modules)
+ GET / 500 in 362ms
+ ✓ Compiled /favicon.ico in 137ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 326ms
+ GET /api/logs/ 200 in 363ms
+ GET / 200 in 159ms
+ ✓ Compiled in 677ms (1071 modules)
+ GET / 500 in 316ms
+ ✓ Compiled /api/logs in 126ms (637 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 321ms
+ GET /api/logs/ 200 in 331ms
+ GET / 200 in 60ms
+ ✓ Compiled in 1257ms (1071 modules)
+ GET / 500 in 338ms
+ ✓ Compiled /api/logs in 152ms (637 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 391ms
+ GET /api/logs/ 200 in 398ms
+ GET / 200 in 84ms
+ ✓ Compiled in 989ms (1071 modules)
+ ✓ Compiled in 949ms (1071 modules)
+ GET / 500 in 394ms
+ ✓ Compiled /favicon.ico in 124ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 318ms
+ GET /api/logs/ 200 in 326ms
+ GET / 200 in 66ms
+ ✓ Compiled in 825ms (1071 modules)
+ GET / 500 in 419ms
+ ✓ Compiled /favicon.ico in 146ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 321ms
+ GET /api/logs/ 200 in 342ms
+ GET / 200 in 60ms
+ ✓ Compiled in 541ms (1071 modules)
+ GET / 500 in 371ms
+ ✓ Compiled /favicon.ico in 147ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 330ms
+ GET /api/logs/ 200 in 354ms
+ GET / 200 in 64ms
+ ✓ Compiled in 1269ms (1071 modules)
+ GET / 500 in 557ms
+ ✓ Compiled /favicon.ico in 177ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 411ms
+ GET /api/logs/ 200 in 439ms
+ GET / 200 in 91ms
+ ✓ Compiled in 862ms (1071 modules)
+ ✓ Compiled in 325ms (1071 modules)
+ ✓ Compiled in 425ms (1071 modules)
+ GET / 500 in 688ms
+ ✓ Compiled /favicon.ico in 169ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 629ms
+ GET /api/logs/ 200 in 695ms
+ GET / 200 in 51ms
+ ✓ Compiled in 582ms (1090 modules)
+ GET / 500 in 502ms
+ GET /api/logs/ 200 in 15ms
+ GET /favicon.ico 200 in 122ms
+ ✓ Compiled in 1167ms (1071 modules)
+ GET / 500 in 607ms
+ ✓ Compiled /favicon.ico in 185ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 479ms
+ GET /api/logs/ 200 in 499ms
+ GET / 200 in 120ms
+ ✓ Compiled in 1192ms (1071 modules)
+ GET / 500 in 399ms
+ ✓ Compiled /favicon.ico in 264ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 348ms
+ GET /api/logs/ 200 in 470ms
+ GET / 200 in 81ms
+ ✓ Compiled in 1057ms (1071 modules)
+ GET / 500 in 510ms
+ GET / 200 in 27ms
+ ✓ Compiled in 348ms (1071 modules)
+ GET / 500 in 297ms
+ ✓ Compiled /api/logs in 150ms (637 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 397ms
+ GET /api/logs/ 200 in 402ms
+ GET / 200 in 96ms
+ ✓ Compiled in 642ms (1071 modules)
+ GET / 500 in 474ms
+ ✓ Compiled /favicon.ico in 146ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 325ms
+ GET /api/logs/ 200 in 362ms
+ GET / 200 in 69ms
+ ✓ Compiled in 1239ms (1071 modules)
+ GET / 500 in 419ms
+ ✓ Compiled /favicon.ico in 169ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 329ms
+ GET /api/logs/ 200 in 374ms
+ GET / 200 in 74ms
+ ✓ Compiled in 432ms (1090 modules)
+ GET / 500 in 233ms
+ GET /favicon.ico 200 in 16ms
+ GET /api/logs/ 200 in 23ms
+ GET / 200 in 17ms
+ ✓ Compiled in 925ms (1082 modules)
+ GET / 500 in 325ms
+ GET / 500 in 113ms
+ GET /favicon.ico 200 in 57ms
+ GET /favicon.ico 200 in 12ms
+ ✓ Compiled in 584ms (1090 modules)
+ GET / 500 in 229ms
+ GET / 500 in 77ms
+ GET /favicon.ico 200 in 47ms
+ GET /api/logs/ 200 in 56ms
+ GET / 200 in 45ms
+ GET /api/logs/ 200 in 16ms
+ GET /favicon.ico 200 in 12ms
+ GET / 200 in 27ms
+ ✓ Compiled in 822ms (1071 modules)
+ GET / 500 in 381ms
+ ✓ Compiled /favicon.ico in 140ms (639 modules)
+ ✓ Compiled (641 modules)
+ GET /favicon.ico 200 in 277ms
+ GET /api/logs/ 200 in 348ms
+ GET / 200 in 55ms
+[2024-12-19T13:03:45.356Z] GET / 500 in 257ms
+[2024-12-19T13:03:45.975Z] GET /api/logs/ 200 in 27ms
+[2024-12-19T13:03:46.005Z] GET /favicon.ico 200 in 21ms
+[2024-12-19T13:03:46.383Z] GET / 200 in 18ms
+[2024-12-19T13:06:17.778Z] ✓ Compiled in 798ms (1071 modules)
+[2024-12-19T13:06:17.974Z] ✓ Compiled /api/logs in 133ms (639 modules)
+[2024-12-19T13:06:18.073Z] GET /api/logs/ 200 in 220ms
+[2024-12-19T13:06:18.078Z] GET /api/logs/ 200 in 237ms
+[2024-12-19T13:06:50.949Z] ▲ Next.js 15.1.0
+[2024-12-19T13:06:50.951Z] - Local:        http://localhost:3000
+   - Network:      http://10.13.13.2:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+[2024-12-19T13:06:53.056Z] ✓ Ready in 2.4s
+[2024-12-19T13:07:06.768Z] ✓ Compiled /middleware in 403ms (215 modules)
+[2024-12-19T13:07:07.931Z] ○ Compiling / ...
+[2024-12-19T13:07:09.890Z] ✓ Compiled / in 2.5s (1070 modules)
+[2024-12-19T13:07:10.875Z] GET / 500 in 3438ms
+[2024-12-19T13:07:12.495Z] ○ Compiling /favicon.ico ...
+[2024-12-19T13:07:12.652Z] ✓ Compiled /favicon.ico in 690ms (1090 modules)
+[2024-12-19T13:07:12.771Z] GET /favicon.ico 200 in 778ms
+[2024-12-19T13:07:12.782Z] GET /api/logs/ 200 in 823ms
+[2024-12-19T13:11:02.017Z] ▲ Next.js 15.1.0
+[2024-12-19T13:11:02.021Z] - Local:        http://localhost:3000
+   - Network:      http://10.13.13.2:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+[2024-12-19T13:11:03.953Z] ✓ Ready in 2.4s
+[2024-12-19T13:11:04.421Z] ✓ Compiled /middleware in 449ms (215 modules)
+[2024-12-19T13:11:05.712Z] ○ Compiling / ...
+[2024-12-19T13:11:08.193Z] ✓ Compiled / in 3s (1070 modules)
+[2024-12-19T13:11:08.940Z] GET / 500 in 3742ms
+[2024-12-19T13:11:10.501Z] ○ Compiling /_not-found ...
+[2024-12-19T13:11:10.888Z] ✓ Compiled /_not-found in 892ms (1089 modules)
+[2024-12-19T13:11:11.341Z] GET /favicon.ico 200 in 1349ms
+[2024-12-19T13:11:11.381Z] GET / 200 in 785ms
+[2024-12-19T13:11:11.385Z] GET /api/logs/ 404 in 958ms
+[2024-12-19T13:12:44.987Z] ▲ Next.js 15.1.0
+[2024-12-19T13:12:44.989Z] - Local:        http://localhost:3000
+   - Network:      http://10.13.13.2:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+[2024-12-19T13:12:47.028Z] ✓ Ready in 2.4s
+[2024-12-19T13:12:47.045Z] ✓ Compiled /middleware in 191ms
+[2024-12-19T13:12:47.461Z] ✓ Compiled (215 modules)
+[2024-12-19T13:12:48.475Z] ○ Compiling / ...
+[2024-12-19T13:12:50.912Z] ✓ Compiled / in 2.9s (1070 modules)
+[2024-12-19T13:12:51.661Z] GET / 500 in 3704ms
+[2024-12-19T13:12:53.261Z] ○ Compiling /favicon.ico ...
+[2024-12-19T13:12:53.506Z] ✓ Compiled /favicon.ico in 748ms (1090 modules)
+[2024-12-19T13:12:53.751Z] GET /favicon.ico 200 in 973ms
+[2024-12-19T13:12:53.822Z] GET /api/logs/ 200 in 1073ms
+[2024-12-19T13:12:53.829Z] GET / 200 in 515ms
+[2024-12-19T13:15:17.351Z] ✓ Compiled in 1273ms (1071 modules)
+[2024-12-19T13:15:17.747Z] ✓ Compiled /api/logs in 280ms (639 modules)
+[2024-12-19T13:15:17.929Z] GET /api/logs/ 200 in 464ms
+[2024-12-19T13:15:18.569Z] GET / 500 in 618ms
+[2024-12-19T13:15:19.484Z] GET /api/logs/ 200 in 10ms
+[2024-12-19T13:15:19.756Z] ✓ Compiled /favicon.ico in 232ms (641 modules)
+[2024-12-19T13:15:19.815Z] GET /favicon.ico 200 in 297ms
+[2024-12-19T13:15:20.075Z] GET / 200 in 67ms
+[2024-12-19T13:19:45.931Z] ✓ Compiled in 1261ms (1071 modules)
+[2024-12-19T13:19:49.483Z] GET / 500 in 482ms
+[2024-12-19T13:19:50.165Z] ✓ Compiled /api/logs in 141ms (639 modules)
+[2024-12-19T13:19:50.274Z] ✓ Compiled /favicon.ico in 104ms (641 modules)
+[2024-12-19T13:19:50.496Z] GET /api/logs/ 200 in 475ms
+[2024-12-19T13:19:50.511Z] GET /favicon.ico 200 in 364ms
+[2024-12-19T13:19:50.618Z] GET / 200 in 80ms
+[2024-12-19T13:24:48.469Z] ✓ Compiled in 1584ms (1018 modules)
+[2024-12-19T13:24:49.023Z] GET / 200 in 442ms
+[2024-12-19T13:24:49.850Z] ✓ Compiled /favicon.ico in 241ms (610 modules)
+[2024-12-19T13:24:49.966Z] GET /favicon.ico 200 in 364ms
+[2024-12-19T13:24:50.239Z] ✓ Compiled /api/logs in 115ms (614 modules)
+[2024-12-19T13:24:50.288Z] GET /api/logs/ 200 in 167ms
+[2024-12-19T13:27:51.599Z] ✓ Compiled in 775ms (1018 modules)
+[2024-12-19T13:27:51.831Z] ✓ Compiled /api/logs in 144ms (612 modules)
+[2024-12-19T13:27:51.939Z] GET /api/logs/ 200 in 255ms
+[2024-12-19T13:27:58.037Z] GET / 200 in 213ms
+[2024-12-19T13:27:58.643Z] ✓ Compiled /favicon.ico in 148ms (614 modules)
+[2024-12-19T13:27:58.788Z] GET /favicon.ico 200 in 296ms
+[2024-12-19T13:27:58.796Z] GET /api/logs/ 200 in 224ms
+[2024-12-19T13:29:41.890Z] ✓ Compiled in 660ms (1018 modules)
+[2024-12-19T13:29:52.406Z] ✓ Compiled in 300ms (1018 modules)
+[2024-12-19T13:29:53.290Z] ✓ Compiled /api/logs in 114ms (612 modules)
+[2024-12-19T13:29:53.411Z] GET /api/logs/ 200 in 238ms
+[2024-12-19T13:30:06.178Z] GET / 200 in 235ms
+[2024-12-19T13:30:06.801Z] ✓ Compiled /favicon.ico in 129ms (614 modules)
+[2024-12-19T13:30:06.969Z] GET /favicon.ico 200 in 299ms
+[2024-12-19T13:30:06.986Z] GET /api/logs/ 200 in 232ms
+[2024-12-19T13:30:21.375Z] GET / 200 in 186ms
+[2024-12-19T13:30:21.811Z] GET /favicon.ico 200 in 7ms
+[2024-12-19T13:30:21.894Z] GET /api/logs/ 200 in 15ms
+[2024-12-19T13:30:34.364Z] GET / 200 in 36ms
+[2024-12-19T13:30:34.805Z] GET /favicon.ico 200 in 10ms
+[2024-12-19T13:30:34.876Z] GET /api/logs/ 200 in 10ms
+[2024-12-19T13:30:48.961Z] GET / 200 in 41ms
+[2024-12-19T13:30:49.427Z] GET /favicon.ico 200 in 11ms
+[2024-12-19T13:30:49.520Z] GET /api/logs/ 200 in 10ms
+[2024-12-19T13:31:25.125Z] ✓ Compiled in 605ms (1037 modules)
+[2024-12-19T13:31:31.966Z] ✓ Compiled in 930ms (1090 modules)
+[2024-12-19T13:31:32.603Z] GET / 500 in 505ms
+[2024-12-19T13:31:33.756Z] GET /api/logs/ 200 in 52ms
+[2024-12-19T13:31:33.780Z] GET /favicon.ico 200 in 32ms
+[2024-12-19T13:31:34.256Z] GET / 200 in 14ms
+[2024-12-19T13:31:58.727Z] ✓ Compiled in 879ms (1090 modules)
+[2024-12-19T13:32:02.136Z] GET / 500 in 285ms
+[2024-12-19T13:32:02.665Z] GET /favicon.ico 200 in 20ms
+[2024-12-19T13:32:02.676Z] GET /api/logs/ 200 in 29ms
+[2024-12-19T13:32:03.021Z] GET / 200 in 22ms
+[2024-12-19T13:32:34.447Z] GET / 500 in 76ms
+[2024-12-19T13:32:35.664Z] GET / 200 in 19ms
+[2024-12-19T13:32:38.718Z] GET / 500 in 38ms
+[2024-12-19T13:32:39.382Z] GET /api/logs/ 200 in 11ms
+[2024-12-19T13:32:39.908Z] GET / 200 in 15ms
+[2024-12-19T13:32:45.122Z] GET / 500 in 47ms
+[2024-12-19T13:32:46.311Z] GET / 200 in 24ms
+[2024-12-19T13:35:03.084Z] ✓ Compiled in 744ms (1071 modules)
+[2024-12-19T13:35:03.711Z] GET / 500 in 407ms
+[2024-12-19T13:35:04.839Z] ✓ Compiled /favicon.ico in 263ms (637 modules)
+[2024-12-19T13:35:04.947Z] GET /favicon.ico 200 in 392ms
+[2024-12-19T13:35:19.498Z] ✓ Compiled in 310ms (1086 modules)
+[2024-12-19T13:35:19.840Z] GET / 500 in 288ms
+[2024-12-19T13:35:20.810Z] GET /favicon.ico 200 in 29ms
+[2024-12-19T13:35:31.405Z] ✓ Compiled in 698ms (1086 modules)
+[2024-12-19T13:35:31.938Z] GET / 200 in 726ms
+[2024-12-19T13:35:32.638Z] GET /favicon.ico 200 in 25ms
+[2024-12-19T13:35:33.279Z] ✓ Compiled /api/logs in 267ms (641 modules)
+[2024-12-19T13:35:33.321Z] GET /api/logs/ 200 in 312ms
+[2024-12-19T13:35:33.371Z] GET /api/logs/ 200 in 13ms
+[2024-12-19T13:35:45.413Z] GET / 200 in 125ms
+[2024-12-19T13:35:45.878Z] GET /favicon.ico 200 in 18ms
+[2024-12-19T13:35:46.277Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:35:46.313Z] GET /api/logs/ 200 in 8ms
+[2024-12-19T13:35:52.083Z] ✓ Compiled /_not-found in 367ms (1094 modules)
+[2024-12-19T13:35:52.178Z] POST / 404 in 466ms
+[2024-12-19T13:36:15.619Z] GET / 200 in 96ms
+[2024-12-19T13:36:16.503Z] GET /api/logs/ 200 in 13ms
+[2024-12-19T13:36:16.541Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:36:29.027Z] POST / 404 in 20ms
+[2024-12-19T13:36:33.884Z] GET / 200 in 23ms
+[2024-12-19T13:36:34.766Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:36:34.797Z] GET /api/logs/ 200 in 11ms
+[2024-12-19T13:36:39.650Z] POST / 404 in 11ms
+[2024-12-19T13:36:50.172Z] GET / 200 in 34ms
+[2024-12-19T13:36:51.139Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:36:51.170Z] GET /api/logs/ 200 in 6ms
+[2024-12-19T13:38:21.479Z] ✓ Compiled in 643ms (1071 modules)
+[2024-12-19T13:38:24.584Z] ✓ Compiled in 902ms (1071 modules)
+[2024-12-19T13:38:35.313Z] ✓ Compiled in 292ms (1071 modules)
+[2024-12-19T13:38:39.485Z] GET / 200 in 284ms
+[2024-12-19T13:38:40.077Z] ✓ Compiled /favicon.ico in 119ms (637 modules)
+[2024-12-19T13:38:40.172Z] GET /favicon.ico 200 in 218ms
+[2024-12-19T13:38:40.585Z] ✓ Compiled /api/logs in 187ms (641 modules)
+[2024-12-19T13:38:40.644Z] GET /api/logs/ 200 in 247ms
+[2024-12-19T13:38:40.688Z] GET /api/logs/ 200 in 8ms
+[2024-12-19T13:38:46.063Z] GET / 200 in 247ms
+[2024-12-19T13:38:46.571Z] GET /favicon.ico 200 in 12ms
+[2024-12-19T13:38:47.022Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:38:47.069Z] GET /api/logs/ 200 in 10ms
+[2024-12-19T13:39:29.827Z] ✓ Compiled in 555ms (1090 modules)
+[2024-12-19T13:39:37.943Z] GET / 200 in 185ms
+[2024-12-19T13:39:38.523Z] GET /favicon.ico 200 in 40ms
+[2024-12-19T13:39:38.885Z] GET /api/logs/ 200 in 11ms
+[2024-12-19T13:39:38.931Z] GET /api/logs/ 200 in 9ms
+[2024-12-19T13:39:43.261Z] GET / 200 in 26ms
+[2024-12-19T13:39:43.752Z] GET /favicon.ico 200 in 9ms
+[2024-12-19T13:39:44.070Z] GET /api/logs/ 200 in 6ms
+[2024-12-19T13:39:44.108Z] GET /api/logs/ 200 in 8ms
+[2024-12-19T13:40:09.287Z] ✓ Compiled in 419ms (1090 modules)
+[2024-12-19T13:40:17.232Z] GET / 200 in 113ms
+[2024-12-19T13:40:17.704Z] GET /favicon.ico 200 in 16ms
+[2024-12-19T13:40:18.043Z] GET /api/logs/ 200 in 19ms
+[2024-12-19T13:40:18.100Z] GET /api/logs/ 200 in 20ms
+[2024-12-19T13:40:38.228Z] ✓ Compiled in 346ms (1090 modules)
+[2024-12-19T13:40:38.472Z] GET / 200 in 142ms
+[2024-12-19T13:40:39.430Z] GET /favicon.ico 200 in 30ms
+[2024-12-19T13:40:41.149Z] ✓ Compiled in 632ms (1090 modules)
+[2024-12-19T13:40:41.418Z] GET / 200 in 216ms
+[2024-12-19T13:40:42.500Z] GET /favicon.ico 200 in 74ms
+[2024-12-19T13:40:42.770Z] GET /api/logs/ 200 in 72ms
+[2024-12-19T13:40:43.386Z] ○ Compiling /_not-found ...
+[2024-12-19T13:40:43.468Z] GET / 200 in 624ms
+[2024-12-19T13:40:43.494Z] GET /api/logs/ 200 in 602ms
+[2024-12-19T13:40:45.404Z] ✓ Compiled /_not-found in 2.6s (1094 modules)
+[2024-12-19T13:40:45.633Z] GET /SignIn_clerk_catchall_check_1734615642610/ 404 in 2807ms
+[2024-12-19T13:41:27.405Z] ✓ Compiled in 972ms (1094 modules)
+[2024-12-19T13:41:28.022Z] GET / 200 in 449ms
+[2024-12-19T13:41:28.732Z] GET /favicon.ico 200 in 28ms
+[2024-12-19T13:41:29.115Z] GET /api/logs/ 200 in 24ms
+[2024-12-19T13:41:29.163Z] GET / 200 in 25ms
+[2024-12-19T13:41:29.174Z] GET /api/logs/ 200 in 20ms
+[2024-12-19T13:41:31.532Z] ✓ Compiled in 518ms (1094 modules)
+[2024-12-19T13:41:35.859Z] GET / 200 in 160ms
+[2024-12-19T13:41:36.344Z] GET /favicon.ico 200 in 20ms
+[2024-12-19T13:41:36.674Z] GET /api/logs/ 200 in 16ms
+[2024-12-19T13:41:36.709Z] GET / 200 in 37ms
+[2024-12-19T13:41:36.719Z] GET /api/logs/ 200 in 15ms
+[2024-12-19T13:42:43.700Z] ✓ Compiled in 679ms (1071 modules)
+[2024-12-19T13:43:25.525Z] ✓ Compiled in 473ms (1071 modules)
+[2024-12-19T13:44:05.929Z] ✓ Compiled in 410ms (1071 modules)
+[2024-12-19T13:44:10.101Z] ✓ Compiled in 448ms (1071 modules)
+[2024-12-19T13:44:13.049Z] GET / 500 in 378ms
+[2024-12-19T13:44:14.213Z] ✓ Compiled /favicon.ico in 425ms (637 modules)
+[2024-12-19T13:44:14.306Z] GET /favicon.ico 200 in 522ms
+[2024-12-19T13:44:14.422Z] ✓ Compiled /api/logs in 105ms (641 modules)
+[2024-12-19T13:44:14.469Z] GET /api/logs/ 200 in 152ms
+[2024-12-19T13:44:14.510Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:44:18.883Z] ✓ Compiled /_not-found in 384ms (1094 modules)
+[2024-12-19T13:44:19.006Z] POST / 404 in 509ms
+[2024-12-19T13:44:28.044Z] GET / 500 in 203ms
+[2024-12-19T13:44:29.147Z] GET /api/logs/ 200 in 15ms
+[2024-12-19T13:44:29.188Z] GET /api/logs/ 200 in 9ms
+[2024-12-19T13:44:33.962Z] POST / 404 in 14ms
+[2024-12-19T13:44:40.035Z] GET / 500 in 62ms
+[2024-12-19T13:44:41.129Z] GET /api/logs/ 200 in 9ms
+[2024-12-19T13:44:41.153Z] GET /api/logs/ 200 in 14ms
+[2024-12-19T13:44:45.094Z] POST / 404 in 13ms
+[2024-12-19T13:44:52.834Z] GET / 500 in 61ms
+[2024-12-19T13:44:54.013Z] GET /api/logs/ 200 in 10ms
+[2024-12-19T13:44:54.045Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:45:28.944Z] POST / 404 in 22ms
+[2024-12-19T13:45:33.619Z] GET / 500 in 55ms
+[2024-12-19T13:45:34.776Z] GET /api/logs/ 200 in 9ms
+[2024-12-19T13:45:34.811Z] GET /api/logs/ 200 in 8ms
+[2024-12-19T13:45:50.376Z] ✓ Compiled in 965ms (1092 modules)
+[2024-12-19T13:45:50.537Z] GET /api/logs/ 200 in 77ms
+[2024-12-19T13:45:50.578Z] GET /api/logs/ 200 in 16ms
+[2024-12-19T13:45:59.707Z] POST / 404 in 98ms
+[2024-12-19T13:46:12.846Z] ✓ Compiled in 440ms (1092 modules)
+[2024-12-19T13:46:15.850Z] GET / 500 in 279ms
+[2024-12-19T13:46:17.100Z] GET /api/logs/ 200 in 13ms
+[2024-12-19T13:46:17.139Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:46:28.801Z] GET / 500 in 43ms
+[2024-12-19T13:46:29.446Z] ✓ Compiled /favicon.ico in 101ms (642 modules)
+[2024-12-19T13:46:29.474Z] GET /favicon.ico 200 in 129ms
+[2024-12-19T13:46:29.760Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:46:29.793Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:46:34.050Z] POST / 404 in 80ms
+[2024-12-19T13:46:39.060Z] GET / 500 in 179ms
+[2024-12-19T13:46:40.095Z] GET /api/logs/ 200 in 5ms
+[2024-12-19T13:46:40.129Z] GET /api/logs/ 200 in 6ms
+[2024-12-19T13:46:42.005Z] POST / 404 in 49ms
+[2024-12-19T13:46:48.279Z] GET / 500 in 37ms
+[2024-12-19T13:46:49.354Z] GET /api/logs/ 200 in 9ms
+[2024-12-19T13:46:49.384Z] GET /api/logs/ 200 in 10ms
+[2024-12-19T13:47:28.801Z] ✓ Compiled in 701ms (1094 modules)
+[2024-12-19T13:47:52.819Z] ✓ Compiled in 499ms (1071 modules)
+[2024-12-19T13:48:06.858Z] ✓ Compiled in 528ms (1071 modules)
+[2024-12-19T13:48:07.614Z] GET / 500 in 603ms
+[2024-12-19T13:48:08.702Z] ✓ Compiled /favicon.ico in 170ms (637 modules)
+[2024-12-19T13:48:08.813Z] GET /favicon.ico 200 in 293ms
+[2024-12-19T13:48:31.396Z] ✓ Compiled in 494ms (1086 modules)
+[2024-12-19T13:48:31.921Z] GET / 500 in 464ms
+[2024-12-19T13:48:32.589Z] GET /favicon.ico 200 in 27ms
+[2024-12-19T13:50:05.056Z] GET / 500 in 90ms
+[2024-12-19T13:50:05.818Z] GET /favicon.ico 200 in 22ms
+[2024-12-19T13:50:46.919Z] ✓ Compiled in 1191ms (1086 modules)
+[2024-12-19T13:50:47.646Z] GET / 200 in 367ms
+[2024-12-19T13:50:48.352Z] GET /favicon.ico 200 in 35ms
+[2024-12-19T13:50:58.304Z] ✓ Compiled in 461ms (1086 modules)
+[2024-12-19T13:50:58.836Z] GET / 200 in 455ms
+[2024-12-19T13:50:59.642Z] GET /favicon.ico 200 in 29ms
+[2024-12-19T13:51:00.321Z] ✓ Compiled /api/logs in 250ms (641 modules)
+[2024-12-19T13:51:00.350Z] GET /api/logs/ 200 in 280ms
+[2024-12-19T13:51:00.387Z] GET /api/logs/ 200 in 5ms
+[2024-12-19T13:51:35.289Z] ✓ Compiled in 517ms (1090 modules)
+[2024-12-19T13:51:35.531Z] GET /api/logs/ 200 in 343ms
+[2024-12-19T13:51:35.589Z] GET /api/logs/ 200 in 12ms
+[2024-12-19T13:51:49.174Z] ✓ Compiled /_not-found in 339ms (1094 modules)
+[2024-12-19T13:51:49.304Z] POST / 404 in 469ms
+[2024-12-19T13:51:54.393Z] GET / 200 in 154ms
+[2024-12-19T13:51:55.367Z] GET /api/logs/ 200 in 22ms
+[2024-12-19T13:51:55.421Z] GET /api/logs/ 200 in 14ms
+[2024-12-19T13:51:57.934Z] POST / 404 in 14ms
+[2024-12-19T13:52:03.000Z] GET / 200 in 24ms
+[2024-12-19T13:52:04.152Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:52:04.188Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T13:56:15.966Z] ✓ Compiled in 1219ms (1018 modules)
+[2024-12-19T13:56:16.922Z] GET / 200 in 480ms
+[2024-12-19T13:56:17.881Z] ✓ Compiled /api/logs in 276ms (610 modules)
+[2024-12-19T13:56:18.018Z] ✓ Compiled (614 modules)
+[2024-12-19T13:56:18.120Z] GET /favicon.ico 200 in 520ms
+[2024-12-19T13:56:18.130Z] GET /api/logs/ 200 in 371ms
+[2024-12-19T14:01:36.588Z] ✓ Compiled in 4.2s (1018 modules)
+[2024-12-19T14:01:48.870Z] GET / 200 in 391ms
+[2024-12-19T14:01:49.703Z] ✓ Compiled /api/logs in 146ms (612 modules)
+[2024-12-19T14:01:49.852Z] GET /api/logs/ 200 in 298ms
+[2024-12-19T14:01:56.834Z] GET / 200 in 177ms
+[2024-12-19T14:01:57.484Z] ✓ Compiled /favicon.ico in 128ms (614 modules)
+[2024-12-19T14:01:57.641Z] GET /favicon.ico 200 in 297ms
+[2024-12-19T14:01:57.651Z] GET /api/logs/ 200 in 272ms
+[2024-12-19T14:02:56.967Z] GET / 200 in 200ms
+[2024-12-19T14:03:50.367Z] ✓ Compiled in 1450ms (1018 modules)
+[2024-12-19T14:03:51.270Z] GET / 200 in 545ms
+[2024-12-19T14:03:52.552Z] ✓ Compiled /api/logs in 377ms (610 modules)
+[2024-12-19T14:03:52.931Z] ✓ Compiled (614 modules)
+[2024-12-19T14:03:53.162Z] GET /favicon.ico 200 in 977ms
+[2024-12-19T14:03:53.181Z] GET /api/logs/ 200 in 765ms
+[2024-12-19T14:04:36.701Z] ✓ Compiled in 1085ms (1090 modules)
+[2024-12-19T14:04:37.372Z] GET / 500 in 511ms
+[2024-12-19T14:04:37.552Z] GET / 500 in 173ms
+[2024-12-19T14:04:39.690Z] GET /favicon.ico 200 in 48ms
+[2024-12-19T14:04:40.080Z] GET /api/logs/ 200 in 23ms
+[2024-12-19T14:04:40.154Z] GET /api/logs/ 200 in 17ms
+[2024-12-19T14:04:42.931Z] GET /favicon.ico 200 in 8ms
+[2024-12-19T14:04:44.019Z] ✓ Compiled /_not-found in 356ms (1094 modules)
+[2024-12-19T14:04:44.136Z] POST / 404 in 476ms
+[2024-12-19T14:05:03.552Z] GET / 500 in 422ms
+[2024-12-19T14:05:04.983Z] GET /api/logs/ 200 in 19ms
+[2024-12-19T14:05:05.011Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T14:05:43.589Z] ✓ Compiled in 699ms (1094 modules)
+[2024-12-19T14:05:44.175Z] GET /api/logs/ 200 in 719ms
+[2024-12-19T14:08:42.357Z] ✓ Compiled in 1487ms (1071 modules)
+[2024-12-19T14:08:46.418Z] GET / 500 in 334ms
+[2024-12-19T14:08:47.243Z] ✓ Compiled /favicon.ico in 125ms (637 modules)
+[2024-12-19T14:08:47.337Z] GET /favicon.ico 200 in 223ms
+[2024-12-19T14:08:47.512Z] ✓ Compiled /api/logs in 97ms (641 modules)
+[2024-12-19T14:08:47.556Z] GET /api/logs/ 200 in 143ms
+[2024-12-19T14:08:47.592Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T14:16:53.716Z] ✓ Compiled in 697ms (1071 modules)
+[2024-12-19T14:16:57.101Z] GET / 500 in 329ms
+[2024-12-19T14:16:57.922Z] ✓ Compiled /favicon.ico in 118ms (637 modules)
+[2024-12-19T14:16:58.011Z] GET /favicon.ico 200 in 212ms
+[2024-12-19T14:16:58.301Z] ✓ Compiled /api/logs in 93ms (641 modules)
+[2024-12-19T14:16:58.346Z] GET /api/logs/ 200 in 140ms
+[2024-12-19T14:16:58.395Z] GET /api/logs/ 200 in 12ms
+[2024-12-19T14:17:15.752Z] ✓ Compiled /_not-found in 441ms (1094 modules)
+[2024-12-19T14:17:15.863Z] POST / 404 in 557ms
+[2024-12-19T14:17:29.645Z] GET / 500 in 192ms
+[2024-12-19T14:17:30.856Z] GET /api/logs/ 200 in 18ms
+[2024-12-19T14:17:30.887Z] GET /api/logs/ 200 in 5ms
+[2024-12-19T14:19:15.759Z] ✓ Compiled in 1113ms (1071 modules)
+[2024-12-19T14:19:18.579Z] GET / 500 in 356ms
+[2024-12-19T14:19:19.335Z] ✓ Compiled /favicon.ico in 139ms (637 modules)
+[2024-12-19T14:19:19.451Z] GET /favicon.ico 200 in 261ms
+[2024-12-19T14:19:19.707Z] ✓ Compiled /api/logs in 101ms (641 modules)
+[2024-12-19T14:19:19.759Z] GET /api/logs/ 200 in 155ms
+[2024-12-19T14:19:19.816Z] GET /api/logs/ 200 in 23ms
+[2024-12-19T14:21:44.538Z] ✓ Compiled in 1213ms (1071 modules)
+[2024-12-19T14:21:47.333Z] GET / 500 in 398ms
+[2024-12-19T14:21:48.078Z] ✓ Compiled /favicon.ico in 229ms (637 modules)
+[2024-12-19T14:21:48.262Z] GET /favicon.ico 200 in 414ms
+[2024-12-19T14:21:48.429Z] ✓ Compiled /api/logs in 139ms (641 modules)
+[2024-12-19T14:21:48.494Z] GET /api/logs/ 200 in 208ms
+[2024-12-19T14:21:48.526Z] GET /api/logs/ 200 in 5ms
+[2024-12-19T14:24:15.362Z] ✓ Compiled in 804ms (1071 modules)
+[2024-12-19T14:24:16.055Z] ✓ Compiled /api/logs in 355ms (639 modules)
+[2024-12-19T14:24:16.174Z] GET /api/logs/ 200 in 475ms
+[2024-12-19T14:24:19.631Z] ✓ Compiled in 348ms (1088 modules)
+[2024-12-19T14:24:25.743Z] GET / 500 in 297ms
+[2024-12-19T14:24:26.472Z] ✓ Compiled /favicon.ico in 105ms (641 modules)
+[2024-12-19T14:24:26.497Z] GET /favicon.ico 200 in 134ms
+[2024-12-19T14:24:26.689Z] GET /api/logs/ 200 in 8ms
+[2024-12-19T14:24:26.722Z] GET /api/logs/ 200 in 7ms
+[2024-12-19T14:28:45.493Z] ✓ Compiled in 1235ms (1071 modules)
+[2024-12-19T14:28:46.008Z] GET / 500 in 841ms
+[2024-12-19T14:28:46.982Z] ✓ Compiled /favicon.ico in 167ms (637 modules)
+[2024-12-19T14:28:47.084Z] GET /favicon.ico 200 in 275ms
+[2024-12-19T14:28:58.844Z] ✓ Compiled in 555ms (1086 modules)
+[2024-12-19T14:28:59.399Z] GET / 200 in 422ms
+[2024-12-19T14:29:00.212Z] GET /favicon.ico 200 in 33ms
+[2024-12-19T14:29:00.902Z] ✓ Compiled /api/logs in 122ms (641 modules)
+[2024-12-19T14:29:00.941Z] GET /api/logs/ 200 in 164ms
+[2024-12-19T14:29:00.975Z] GET /api/logs/ 200 in 6ms
+[2024-12-19T14:37:20.509Z] ○ Compiling /_not-found ...
+[2024-12-19T14:37:20.628Z] ✓ Compiled /_not-found in 647ms (1075 modules)
+[2024-12-19T14:37:20.820Z] POST /account/ 404 in 843ms
+[2024-12-19T14:37:36.702Z] GET / 200 in 194ms
+[2024-12-19T14:37:37.888Z] ✓ Compiled /api/logs in 150ms (640 modules)
+[2024-12-19T14:37:37.997Z] GET /api/logs/ 200 in 263ms
+[2024-12-19T14:37:38.047Z] GET /api/logs/ 200 in 16ms
+[2024-12-19T14:38:36.045Z] GET /account/ 404 in 126ms
+[2024-12-19T14:38:36.710Z] ✓ Compiled /favicon.ico in 156ms (642 modules)
+[2024-12-19T14:38:36.753Z] GET /favicon.ico 200 in 203ms
+[2024-12-19T14:38:41.146Z] GET / 200 in 191ms
+[2024-12-19T14:38:42.362Z] GET /api/logs/ 200 in 13ms
+[2024-12-19T14:38:42.423Z] GET /api/logs/ 200 in 15ms
+[2024-12-19T14:40:36.370Z] POST /account/ 404 in 79ms
+[2024-12-19T14:43:30.147Z] GET / 200 in 35ms
+[2024-12-19T14:43:31.331Z] GET /api/logs/ 200 in 13ms
+[2024-12-19T14:43:31.381Z] GET /api/logs/ 200 in 13ms
+[2024-12-19T14:48:48.946Z] GET / 200 in 82ms
+[2024-12-19T14:48:49.530Z] GET /favicon.ico 200 in 20ms
+[2024-12-19T14:48:49.940Z] GET /api/logs/ 200 in 20ms
+[2024-12-19T14:48:49.980Z] GET /api/logs/ 200 in 12ms
