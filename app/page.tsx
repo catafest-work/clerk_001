@@ -3,8 +3,9 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import { SignIn, useUser, UserButton } from "@clerk/nextjs";
-import { BrowserRouter, Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import GraficErori from './GraficErori.client';
+import Link from 'next/link'; // Use Next.js Link instead
 
 export default function Home() {
   const { isSignedIn } = useUser();
@@ -15,16 +16,19 @@ export default function Home() {
       {!isSignedIn ? (
             <SignIn routing="hash" />
           ) : (
+            //TODO: I removed ErowserRouter wrapper since Next.js has its own routing system. Instead, use Next.js's built-in routing. See this changes
             <div>
-              <BrowserRouter>
-                <UserButton afterSignOutUrl="/" />
-                <Link to="/account" className="bg-blue-500 text-white px-4 py-2 rounded mt-4">
+                <UserButton  onSignOut={() => { window.location.href = '/'; }} />
+                <Link 
+                  href="/" 
+                  className="bg-blue-500 text-white px-4 py-2 rounded mt-4"
+                  passHref
+                >
                   Account Management
                 </Link>
                 <main className="flex min-h-screen flex-col items-center justify-between p-24">
                   <GraficErori />
                 </main>
-              </BrowserRouter>
             </div>
           )}
         </div>
