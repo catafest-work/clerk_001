@@ -1,18 +1,20 @@
 'use client';
+// Importarea componentelor necesare
 import React, { useEffect, useRef, useState } from 'react';
 import { Chart } from 'chart.js/auto';
-
+// Interfața pentru un entry de log
 interface LogEntry {
   timestamp: string;
   message: string;
 }
 
+// Interfața pentru datele de log sub formă de arbore
 interface TreeData {
   [date: string]: {
     [time: string]: string[];
   };
 }
-
+// Procesarea datelor de log brute și returnarea unui array de obiecte cu timestamp și logEntries
 class LogProcessor {
   processLogLine(line: string): LogEntry[] {
     const logEntries: LogEntry[] = [];
@@ -35,7 +37,7 @@ class LogProcessor {
       return { timestamp, logEntries };
     });
   }
-
+  // Obținerea datelor de log sub formă de arbore
   getTreeData(logData: LogEntry[]): TreeData {
     const treeData: TreeData = {};
     logData.forEach(entry => {
@@ -54,13 +56,22 @@ class LogProcessor {
   }
 }
 
+// Funcția principală a graficului de erori
 const GraficErori: React.FC = () => {
+  // Obținerea referinței la canvas-ul graficului
   const canvasRef = useRef<HTMLCanvasElement>(null);
+  // Obținerea referinței la graficul Chart.js
   const chartRef = useRef<Chart | null>(null);
+  // Starea datelor de log
   const [logData, setLogData] = useState<{ timestamp: string, logEntries: LogEntry[] }[]>([]);
+  // Starea datelor de log brute
   const [rawLogData, setRawLogData] = useState<string>('');
+  // Starea tab-ului activ
   const [activeTab, setActiveTab] = useState<number>(0);
+  // Instanța clasei LogProcessor
   const logProcessor = new LogProcessor();
+
+  // Efect pentru obținerea datelor de log la încărcarea componentei
 
   useEffect(() => {
     const fetchLogData = async () => {
@@ -78,7 +89,7 @@ const GraficErori: React.FC = () => {
 
     fetchLogData();
   }, []);
-
+ // Efect pentru actualizarea graficului la schimbarea datelor de log
   useEffect(() => {
     if (logData.length > 0 && canvasRef.current) {
       if (chartRef.current) {

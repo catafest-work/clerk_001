@@ -594,3 +594,30 @@
 [2024-12-19T14:48:49.530Z] GET /favicon.ico 200 in 20ms
 [2024-12-19T14:48:49.940Z] GET /api/logs/ 200 in 20ms
 [2024-12-19T14:48:49.980Z] GET /api/logs/ 200 in 12ms
+[2024-12-20T06:05:18.237Z] ▲ Next.js 15.1.0
+[2024-12-20T06:05:18.241Z] - Local:        http://localhost:3000
+   - Network:      http://10.13.13.2:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+[2024-12-20T06:05:20.514Z] ✓ Ready in 2.7s
+[2024-12-20T06:07:20.519Z] ○ Compiling /middleware ...
+[2024-12-20T06:07:21.975Z] ✓ Compiled /middleware in 1963ms (215 modules)
+[2024-12-20T06:07:23.974Z] ○ Compiling / ...
+[2024-12-20T06:07:31.740Z] ✓ Compiled / in 8.3s (1111 modules)
+[2024-12-20T06:07:32.366Z] GET / 200 in 8979ms
+[2024-12-20T06:07:33.898Z] ✓ Compiled /favicon.ico in 293ms (637 modules)
+[2024-12-20T06:07:34.007Z] GET /favicon.ico 200 in 409ms
+[2024-12-20T06:07:34.551Z] ✓ Compiled /api/logs in 371ms (1090 modules)
+[2024-12-20T06:07:34.625Z] GET /api/logs/ 200 in 448ms
+[2024-12-20T06:07:34.664Z] GET /api/logs/ 200 in 12ms
+[2024-12-20T06:08:19.618Z] ✓ Compiled in 436ms (1090 modules)
+[2024-12-20T06:09:13.048Z] ✓ Compiled in 817ms (1071 modules)
+[2024-12-20T06:09:56.030Z] ✓ Compiled in 678ms (1071 modules)
+[2024-12-20T06:10:00.521Z] ✓ Compiled in 112ms (215 modules)
+[2024-12-20T06:10:04.787Z] GET / 200 in 340ms
+[2024-12-20T06:10:05.429Z] ✓ Compiled /favicon.ico in 137ms (637 modules)
+[2024-12-20T06:10:05.518Z] GET /favicon.ico 200 in 230ms
+[2024-12-20T06:10:05.887Z] ✓ Compiled /api/logs in 98ms (641 modules)
+[2024-12-20T06:10:05.931Z] GET /api/logs/ 200 in 145ms
+[2024-12-20T06:10:05.968Z] GET /api/logs/ 200 in 8ms

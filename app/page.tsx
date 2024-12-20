@@ -1,4 +1,5 @@
 "use client";
+// Importarea componentelor necesare
 import Image from "next/image";
 import styles from "./page.module.css";
 import { SignIn, useUser, UserButton } from "@clerk/nextjs";
