@@ -23,7 +23,10 @@
     Account Management
     </Link>
    ```
-   
+- TypeScript is complaining sometime about that it doesn't exist and you find into Visual Code syntax , see changes on :
+   ```
+    <UserButton {...props} />
+   ```
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
