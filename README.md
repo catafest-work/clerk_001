@@ -1,3 +1,30 @@
+### Updates and notes 
+
+ - because nextjs has its own routing system I show in this [branch - nextjs_buildin](https://github.com/catafest-work/clerk_001/tree/nextjs_buildin) how can be used:
+   ```
+   "use client";
+   // Importarea componentelor necesare
+   import Image from "next/image";
+   import styles from "./page.module.css";
+   import { SignIn, useUser, UserButton } from "@clerk/nextjs";
+   // import { Link } from 'react-router-dom';
+   import GraficErori from './GraficErori.client';
+   import Link from 'next/link'; // Use Next.js Link instead
+   
+   //TODO: I removed ErowserRouter wrapper since Next.js has its own routing system.
+   // Instead, I used Next.js's built-in routing. See this changes
+   <div>
+    <UserButton  onSignOut={() => { window.location.href = '/'; }} />
+    <Link 
+    href="/" 
+    className="bg-blue-500 text-white px-4 py-2 rounded mt-4"
+    passHref
+    >
+    Account Management
+    </Link>
+   ```
+   
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
