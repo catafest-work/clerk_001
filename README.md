@@ -30,7 +30,10 @@
    ```
    
 - I don't use in this project this feature: _Clerk Elements is currently in beta with support for Next.js App Router. It is not yet recommended for production use._
-- 
+- Changes with :
+  ```
+      <ClerkProvider>
+  ```
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
