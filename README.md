@@ -23,11 +23,14 @@
     Account Management
     </Link>
    ```
+   
 - TypeScript is complaining sometime about that it doesn't exist and you find into Visual Code syntax , see changes on :
    ```
     <UserButton {...props} />
    ```
-
+   
+- I don't use in this project this feature: _Clerk Elements is currently in beta with support for Next.js App Router. It is not yet recommended for production use._
+- 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
